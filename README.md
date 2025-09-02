@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Spring Boot and Microservices
 - 📫 How to reach me ayush@infinisync.io
 - 😄 Pronouns: [He/Him] [Factory default]
-- ⚡ Fun fact: I am an ECE final year student
+- ⚡ Fun fact: I am my Bachelor's Degree in Electronics and Communication Engineering
 
 <!---
 ayush-infinisync/ayush-infinisync is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
