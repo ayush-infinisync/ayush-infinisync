@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prasad
-- 👀 I’m interested in Backend Technologies
+- 👀 I’m interested in Backend Technologies & Generative AI
 - 🌱 I’m currently learning Advanced Backend Concepts
 - 💞️ I’m looking to collaborate on Spring Boot and Microservices
 - 📫 How to reach me ayush@infinisync.io
