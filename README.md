@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Prasad
 - 👀 I’m interested in Backend Technologies & Generative AI
 - 🌱 I’m currently learning Advanced Backend Concepts
-- 💞️ I’m looking to collaborate on Spring Boot and Microservices
+- 💞️ I’m looking to collaborate on GenAI, Microservices & DevOps
 - 📫 How to reach me ayush@infinisync.io
-- 😄 Pronouns: [He/Him] [Factory default]
+- 😄 Pronouns: [He/Him]
 - ⚡ Fun fact: I am my Bachelor's Degree in Electronics and Communication Engineering
 
 <!---
